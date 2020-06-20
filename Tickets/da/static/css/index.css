@@ -1,0 +1,24 @@
+.top-nav{
+  background-color: #D6EFFF;
+  overflow: hidden;
+  }
+ul{
+  display: flex;
+  list-style-type: none;
+}
+li{
+  padding: 10px;
+  font-size: 30px;
+  color: black;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.top-nav a:hover{
+  background-color: #D6FFEA;
+  }
+.submit-btn{
+  float:right;
+  padding left: 100px;
+}
